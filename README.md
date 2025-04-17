@@ -14,3 +14,5 @@ O sistema controla um ou mais robôs que se movem sobre um grid cartesiano, com 
   - `D`: gira 90° à direita;
   - `M`: move-se uma posição para frente, na direção atual;
 - O robô **não pode ultrapassar os limites do grid**.
+
+![Demonstração do Robô em ação](https://i.imgur.com/fJiBeFG.gif)
